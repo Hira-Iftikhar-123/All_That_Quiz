@@ -1,6 +1,6 @@
 body {
 	background-color: #222222;
-	background: url('../quiz/pic3.jpg') no-repeat;
+	background: url('./quiz/pic3.jpg') no-repeat;
 	background-size: 1550px;
 	font-family: 'sans-serif';
 	font-size: 22px;
@@ -25,7 +25,7 @@ body {
 	border: 5px solid white;
 	/* margin-left:350px ;
 	margin-top: 100px; */
-	background:url('../quiz/back.png') no-repeat;
+	background:url('./quiz/back.png') no-repeat;
 	background-size:cover;
 	border-radius: 10px;
 	display: none;
